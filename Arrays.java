@@ -22,4 +22,8 @@ public class Arrays {
             System.out.println("unsorted array");
         }
     }
+
+    public static boolean toString(int[] search) {
+        return false;
+    }
 }

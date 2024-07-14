@@ -14,5 +14,13 @@ public class Hello {
 //            num++;
 //        }
 //        while(num!=1);
+        //public static void main(String[] args) {
+            // Write code here
+            for(int i=1;i<=6;i++){
+                for(int j=i;j<=6;j++){
+                    System.out.print("* ");
+                }
+            }
+        }
     }
-}
+
